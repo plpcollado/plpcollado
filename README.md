@@ -72,7 +72,10 @@ Passionate about building innovative solutions that make a real impact. Speciali
 
 **Tech Stack:** Bubble · Stripe · OpenPay · MercadoPago · Odoo ERP · AWS Lambda · Intercom · WhatsApp Business
 
-[View Project →](club.presalud.com)
+**Platforms:**
+
+- [Club Presalud →](https://club.presalud.com)
+- [Receta Digital →](https://receta.presalud.com)
 
 ### 📈 Professional Highlights
 
